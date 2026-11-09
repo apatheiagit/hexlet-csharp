@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, Hexlet!");
+﻿using Hexlet;
+
+Console.WriteLine(Greeting.GetMessage());
